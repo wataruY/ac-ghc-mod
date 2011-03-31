@@ -23,7 +23,7 @@
         (prefix . "^import +\\(.*\\)")
         (requires . 0)
         (symbol . "m")))
-
+;;; hoge
 (defvar ac-source-ghc-symbol nil "ac-source by ghc-merged-keyword with quickhelp.")
 (defvar ac-source-ghc-symgol-enable-quickhelp t)
 (defvar ac-source-ghc-symbol-enable-quickhelp-by-hoogle nil)
